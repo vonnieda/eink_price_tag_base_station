@@ -1,4 +1,9 @@
+# Overview
+
+The base station is an ESP32 running firmware described below. The ESP32 is connected to a CC1101 RF dongle and the dongle is connected to an antenna. The ESP32 runs a web portal to control the displays. The displays are stock.
+
 # Hardware
+
 - 1x ESP32 WROOM-32 Dev Board: [Amazon.com: ACEIRMC D1 Mini NodeMCU ESP32 ESP-WROOM-32 WLAN WiFi Bluetooth IoT Development Board 5V Compatible for Arduino (5pcs) : Electronics](https://www.amazon.com/gp/product/B08PNWB81Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 - 1x CC1101 RF Module: [Amazon.com: 2X CC1101 Wireless RF Transceiver 315/433/868/915MHZ + SMA Antenna Wireless Module : Electronics](https://www.amazon.com/dp/B01DS1WUEQ?psc=1&ref=ppx_yo2ov_dt_b_product_details)
