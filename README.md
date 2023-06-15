@@ -6,7 +6,7 @@
 - 1x 989 MHz Antenna with SMA connector: I use my FlightAware antenna but anything should work.
 
 - 7x female to female Dupont jumpers:
-- 
+
 - Chroma29 displays: https://www.ebay.com/itm/314586847303
 
 - Chroma74 displays: https://www.ebay.com/itm/155039383396
@@ -15,7 +15,7 @@
 
 This is the software being used: https://github.com/atc1441/E-Paper_Pricetags
 
-It doesn't compile as it is now due to library dependencies, and I updated it to fix a few issues. I'll push that up soon.
+It doesn't compile as it is now due to library dependencies, and I updated it to fix a few issues. I'll push my fixed version up soon.
 
 # Process
 
